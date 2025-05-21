@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\resources",
-    "\\resources\\views",
-    "\\resources\\views\\security"
+    "\\api"
   ],
   "PreviewInSolutionExplorer": false
 }

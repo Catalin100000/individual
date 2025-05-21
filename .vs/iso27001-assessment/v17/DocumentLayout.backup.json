@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\api\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\resources\\views\\security\\results.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\security\\results.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -14,20 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T16:43:55.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T16:29:14.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\api\\index.html",
+              "RelativeDocumentMoniker": "api\\index.html",
+              "ToolTip": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\api\\index.html",
+              "RelativeToolTip": "api\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-21T16:18:52.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "web.php",
+              "DocumentMoniker": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-21T16:17:59.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "console.php",
+              "DocumentMoniker": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\routes\\console.php",
+              "RelativeDocumentMoniker": "routes\\console.php",
+              "ToolTip": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\routes\\console.php",
+              "RelativeToolTip": "routes\\console.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-21T16:17:56.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "results.blade.php",
               "DocumentMoniker": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\resources\\views\\security\\results.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\security\\results.blade.php",
               "ToolTip": "D:\\Universitate\\Disciplini\\TSI\\Lucru individual\\iso27001-assessment\\resources\\views\\security\\results.blade.php",
               "RelativeToolTip": "resources\\views\\security\\results.blade.php",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2025-05-19T11:36:34.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T11:36:34.8Z"
             }
           ]
         }
